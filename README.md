@@ -1,4 +1,4 @@
-Heyo! - Beemo
+Heyo! 
 
 - 🔭 I’m currently working on ... updating my portfolio
 - 🌱 I’m currently learning ... Advanced Css (SASS, LESS, Flexbox, Grid, Animations)
